@@ -4,7 +4,7 @@ A personal developer portfolio built to showcase my skills, projects, education,
 
 ## Live Portfolio
 
-Deployment link will be added here after hosting.
+https://asish.pages.dev
 
 ## About
 
@@ -22,20 +22,6 @@ I enjoy building practical software and exploring areas such as web development,
 - Git
 - GitHub
 
-## Projects Featured
-
-### Image Metadata Extractor
-Python utility for extracting image information and available EXIF metadata.
-
-### Attendance Management System
-Web application for structured student attendance management.
-
-### Traffic Violation Monitoring System
-Computer vision project for detecting common traffic violations from video feeds.
-
-### AI Support Desk
-AI-assisted support system for handling queries and routing support tickets.
-
 ## Features
 
 - Responsive design for mobile, tablet, and desktop
@@ -48,10 +34,60 @@ AI-assisted support system for handling queries and routing support tickets.
 - Resume access
 - GitHub, LinkedIn, and email links
 - Custom favicon
+- Production deployment using Cloudflare Pages
 
 ## Run Locally
 
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/akrout9999-star/asish-portfolio.git
+```
+
+Go to the project folder:
+
+```bash
+cd asish-portfolio
+```
+
+Install the dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Open the local development URL shown in the terminal.
+
+## Production Build
+
+Create a production build:
+
+```bash
+npm run build
+```
+
+Preview the production build locally:
+
+```bash
+npm run preview
+```
+
+## Deployment
+
+The portfolio is deployed using Cloudflare Pages.
+
+Live site:
+
+https://asish.pages.dev
+
+The production deployment is connected to the `main` branch of this GitHub repository.
+
+---
+
+Built with React and Vite.
