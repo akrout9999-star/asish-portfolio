@@ -773,25 +773,14 @@ function App() {
                   </div>
                 </div>
 
-                <div>
-                  <a
-                    href="https://ai-support-desk.pages.dev"
-                    target="_blank"
-                    rel="noreferrer"
-                    className="project-link"
-                  >
-                    Live Demo ↗
-                  </a>
-
-                  <a
-                    href="https://github.com/akrout9999-star/ai-support-desk"
-                    target="_blank"
-                    rel="noreferrer"
-                    className="project-link"
-                  >
-                    GitHub ↗
-                  </a>
-                </div>
+                <a
+  href="https://github.com/akrout9999-star/ai-support-desk"
+  target="_blank"
+  rel="noreferrer"
+  className="project-link"
+>
+  View Project
+</a>
               </div>
             </article>
 
