@@ -395,7 +395,7 @@ function App() {
             <div className="floating-card card-one">
               <span>PROJECTS</span>
               <strong>4</strong>
-              <small>2 currently building</small>
+              <small>1 currently building</small>
             </div>
 
             <div className="floating-card card-two">
