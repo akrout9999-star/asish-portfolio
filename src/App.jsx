@@ -744,56 +744,59 @@ function App() {
               </div>
             </article>
 
-            {/* Project 04 */}
-<article className="project-feature">
-  <div className="project-feature-top">
-    <span className="project-index">04</span>
+                        {/* Project 04 */}
+            <article className="project-feature">
+              <div className="project-feature-top">
+                <span className="project-index">04</span>
 
-    <span className="project-status completed">
-      COMPLETED
-    </span>
-  </div>
+                <span className="project-status completed">
+                  COMPLETED
+                </span>
+              </div>
 
-  <div className="project-feature-content">
-    <div>
-      <h3>SUPPORT/OS — AI Support Desk</h3>
+              <div className="project-feature-content">
+                <div>
+                  <h3>SUPPORT/OS — AI Support Desk</h3>
 
-      <p>
-        A full-stack AI-assisted customer support platform with
-        role-based authentication, persistent ticket management,
-        Gemini-powered diagnostics, and a human-reviewed response
-        workflow.
-      </p>
+                  <p>
+                    A full-stack AI-assisted customer support platform with
+                    role-based authentication, persistent ticket management,
+                    Gemini-powered diagnostics, and a human-reviewed response
+                    workflow.
+                  </p>
 
-      <div className="project-tech">
-        <span>React</span>
-        <span>Node.js</span>
-        <span>PostgreSQL</span>
-        <span>Gemini AI</span>
-      </div>
-    </div>
+                  <div className="project-tech">
+                    <span>React</span>
+                    <span>Node.js</span>
+                    <span>PostgreSQL</span>
+                    <span>Gemini AI</span>
+                  </div>
+                </div>
 
-    <div>
-      <a
-        href="https://ai-support-desk.pages.dev"
-        target="_blank"
-        rel="noreferrer"
-        className="project-link"
-      >
-        Live Demo ↗
-      </a>
+                <div>
+                  <a
+                    href="https://ai-support-desk.pages.dev"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="project-link"
+                  >
+                    Live Demo ↗
+                  </a>
 
-      <a
-        href="https://github.com/akrout9999-star/ai-support-desk"
-        target="_blank"
-        rel="noreferrer"
-        className="project-link"
-      >
-        GitHub ↗
-      </a>
-    </div>
-  </div>
-</article>
+                  <a
+                    href="https://github.com/akrout9999-star/ai-support-desk"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="project-link"
+                  >
+                    GitHub ↗
+                  </a>
+                </div>
+              </div>
+            </article>
+
+          </div>
+        </section>
 
         {/* Education */}
         <section id="education" className="education-section">
