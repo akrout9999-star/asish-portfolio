@@ -394,7 +394,7 @@ function App() {
 
             <div className="floating-card card-one">
               <span>PROJECTS</span>
-              <strong>4</strong>
+              <strong>5</strong>
               <small>1 currently building</small>
             </div>
 
@@ -447,7 +447,7 @@ function App() {
 
               <div className="about-metrics">
                 <div className="about-metric">
-                  <strong>4+</strong>
+                  <strong>5+</strong>
                   <span>Projects</span>
                 </div>
 
@@ -781,6 +781,43 @@ function App() {
 >
   View Project
 </a>
+              </div>
+            </article>
+
+                        {/* Project 05 */}
+            <article className="project-feature project-building">
+              <div className="project-feature-top">
+                <span className="project-index">05</span>
+
+                <span className="project-status progress">
+                  IN PROGRESS
+                </span>
+              </div>
+
+              <div className="project-feature-content">
+                <div>
+                  <h3>Tech-Prep : AI Mock Interview</h3>
+
+                  <p>
+                    An AI-powered mock interview platform being developed to help
+                    users practice technical interviews and improve their interview
+                    preparation through AI-assisted sessions.
+                  </p>
+
+                  <div className="project-tech">
+                    <span>AI</span>
+                    <span>Interview Prep</span>
+                  </div>
+                </div>
+
+                <a
+                  href="https://github.com/akrout9999-star/ai-mock-interview"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="project-link"
+                >
+                  View Project
+                </a>
               </div>
             </article>
 
