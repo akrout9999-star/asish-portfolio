@@ -785,12 +785,12 @@ function App() {
             </article>
 
                         {/* Project 05 */}
-            <article className="project-feature project-building">
+            <article className="project-feature ">
               <div className="project-feature-top">
                 <span className="project-index">05</span>
 
-                <span className="project-status progress">
-                  IN PROGRESS
+                <span className="project-status completed">
+                  COMPLETED
                 </span>
               </div>
 
@@ -799,15 +799,17 @@ function App() {
                   <h3>Tech-Prep : AI Mock Interview</h3>
 
                   <p>
-                    An AI-powered mock interview platform being developed to help
-                    users practice technical interviews and improve their interview
-                    preparation through AI-assisted sessions.
+                  A full-stack AI-powered mock interview platform with adaptive
+                  Gemini-driven interviews, secure authentication, persistent
+                  PostgreSQL data, and interview performance analysis.
                   </p>
 
                   <div className="project-tech">
-                    <span>AI</span>
-                    <span>Interview Prep</span>
-                  </div>
+                  <span>React</span>
+                  <span>FastAPI</span>
+                  <span>PostgreSQL</span>
+                  <span>Gemini AI</span>
+                </div>
                 </div>
 
                 <a
