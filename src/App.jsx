@@ -595,12 +595,15 @@ function App() {
               </div>
 
               <div className="skill-tags">
-                <span>Git</span>
+               <span>Git</span>
                 <span>GitHub</span>
                 <span>React</span>
-                <span>Firebase</span>
-                <span>Vite</span>
-                <span>Pillow</span>
+                <span>Node.js</span>
+                <span>FastAPI</span>
+                <span>PostgreSQL</span>
+                <span>Gemini AI</span>
+                <span>JWT</span>
+                  <span>Pillow</span>
               </div>
             </div>
 
@@ -620,9 +623,10 @@ function App() {
               </div>
 
               <div className="exploring-list">
-                <span>React</span>
                 <span>AI Systems</span>
+                <span>LLMs</span>
                 <span>Computer Vision</span>
+                <span>Backend Development</span>
               </div>
             </div>
           </div>
